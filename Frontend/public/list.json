@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "title": "F. Scott Fitzgerald",
+    "price": 19.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "title": "Harper Lee",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 3,
+    "name": "1984",
+    "title": "George Orwell",
+    "price": 39.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "title": "Jane Austen",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 5,
+    "name": "The Catcher in the Rye",
+    "title": "J.D. Salinger",
+    "price": 24.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Moby-Dick",
+    "title": "Herman Melville",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 7,
+    "name": "The Lord of the Rings",
+    "title": "J.R.R. Tolkien",
+    "price": 59.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "title": "J.K. Rowling",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 9,
+    "name": "The Hobbit",
+    "title": "J.R.R. Tolkien",
+    "price": 39.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Frankenstein",
+    "title": "Mary Shelley",
+    "price": 22.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714027172~exp=1714030772~hmac=6b8867601c438cdcb9f64281cd531cf4a31851db4267b380f6c8a9197bd14e35&w=740"
+  }
+]
